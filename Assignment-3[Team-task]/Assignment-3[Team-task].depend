@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542395706 source:d:\new assignmmet-3\assignment-3[team-task]\main.cpp
+	<iostream>
+	"VendingMachine.h"
+
+1542395900 d:\new assignmmet-3\assignment-3[team-task]\include\vendingmachine.h
+	<string>
+
+1542396303 source:d:\new assignmmet-3\assignment-3[team-task]\src\vendingmachine.cpp
+	"VendingMachine.h"
+	<iostream>
+	<string>
+
